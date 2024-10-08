@@ -2,7 +2,7 @@
 Repo für Team13 in "Starter Challenges"
 
 ## Bitte untenstehende Angaben ausfüllen:
-- Bereich: Softwareentwicklung (Deisgn)
+- Bereich: Softwareentwicklung (Design)
 - Projekt-Titel: Meme generator
 - Projekt-Beschreibung: Eine Web-App bei welcher man ein Bild und Text hochladen kann, welche dann in ein neues Bild zusammengeführt werden.
 - Benötigte Hardware: -
